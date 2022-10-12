@@ -1,7 +1,7 @@
 ---
 title: Davi Cardoso
 role: Licenciando em Matemática
-avatar_filename: foto_2-1-.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
