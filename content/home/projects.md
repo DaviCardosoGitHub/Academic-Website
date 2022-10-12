@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: RECENT-POSTS
+widget_id: Projetos
 headless: true
 weight: 65
 title: Projetos
