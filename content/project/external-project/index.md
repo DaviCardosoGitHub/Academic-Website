@@ -11,5 +11,5 @@ external_link: https://www.geogebra.org/m/b2fhjgrn
 image:
   caption: Comparação de frações - GeoGebra
   focal_point: Smart
-  filename: comparação_de_frações.png
+  filename: featured.png
 ---
