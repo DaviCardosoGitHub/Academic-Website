@@ -7,9 +7,12 @@ authors:
   - DaviCardoso
 tags:
   - GeoGebra
+categories:
+  - GeoGebra
 external_link: https://www.geogebra.org/m/b2fhjgrn
 image:
   caption: Comparação de frações - GeoGebra
   focal_point: Smart
   filename: featured.png
+  preview_only: true
 ---
