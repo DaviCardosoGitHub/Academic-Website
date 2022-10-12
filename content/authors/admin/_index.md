@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: dcardoso.profissional@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/DaviCardosoGitHub
@@ -15,8 +15,8 @@ organizations: []
 education:
   courses: []
 superuser: true
-last_name: Bighetti
+last_name: Cardoso
 highlight_name: true
-first_name: Alice
+first_name: Davi
 email: ""
 ---

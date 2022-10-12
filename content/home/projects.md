@@ -11,10 +11,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: GeoGebra
+      tag: GeoGebra
+    - name: Outros
+      tag: Outros
 design:
   columns: "1"
   view: showcase
