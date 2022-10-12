@@ -1,14 +1,15 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Comparação de frações
+date: 2022-10-12T13:08:48.739Z
+summary: C﻿onstrução desenvolvida no *software* GeoGebra para a visualização da
+  comparação de frações
+authors:
+  - DaviCardoso
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: https://example.org
-
+  - GeoGebra
+external_link: https://www.geogebra.org/m/b2fhjgrn
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Comparação de frações - GeoGebra
   focal_point: Smart
+  filename: comparação_de_frações.png
 ---
